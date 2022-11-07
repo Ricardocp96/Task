@@ -1,4 +1,4 @@
 All the tasks were done using python 
-For the first task (100 doors) install asciimatics via pip install then run the code via python doors.py via terminal 
+For the first task (100 doors) install asciimatics via pip install asciimatics then run the code via python doors.py via terminal 
 
 The remaining two tasks can just be run via terminal python spiral.py and python string.py
