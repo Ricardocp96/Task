@@ -1,8 +1,8 @@
-# Python 3 implementation of the approach
+## Question 3 
  
 
 def return_two_integers(A, B):
- 
+ #initialize empty string variable 
     rt = ""
     while (0 < A or 0 < B) :
  
@@ -30,8 +30,7 @@ def return_two_integers(A, B):
                 rt += 'b'
                 B -= 1
  
-        # Equal number of 'a' and 'b'
-        # append "ab"
+       
         else :
             if (0 < A):
                 rt += 'a'

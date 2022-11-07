@@ -1,3 +1,5 @@
+#Question 2 
+
 
 ## traversal direction and initializing the coordinates 
 UP, DOWN, LEFT, RIGHT = (0, -1), (0, 1), (-1, 0), (1, 0) 
